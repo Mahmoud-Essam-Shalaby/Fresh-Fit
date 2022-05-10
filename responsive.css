@@ -1,0 +1,535 @@
+
+
+
+ 
+ @media (min-width: 0px) and (max-width: 299.98px) {
+    #col-header-discription {
+        position: absolute;
+        top: 35%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        }  
+    .header {
+        height: 99.3vh;
+    }
+    #btn-header {
+        font-size: 11px;
+        padding-bottom: 5px;
+    }
+    #h2-header {
+        font-size: 22px;
+       }
+    #h1-header {
+        font-size: 22px;
+      }
+     .about {
+         height: 
+         60.3rem;
+         
+     }
+     #img-about {
+         margin-left: -16px;
+     }
+
+     #text-about {
+         margin-bottom: 60px;
+    }
+        
+     
+     #h1-carousel {
+        font-size: 100px;
+
+     }
+     #fab {
+         margin-bottom: 15px;
+     }
+     #h2-carousel {
+         font-size: 50px;
+     }
+     #h3-carousel {
+         margin-top: 100px;
+              font-size: 80px;
+        margin-bottom: 80px;
+     }
+     #h4-carousel {
+        font-size: 50px;   
+     }
+     .img-carousel {
+        min-height: 150px;
+        max-height: 150px;
+        }
+        #line-small {
+            margin-left: -1px;
+        }
+    
+    }
+    @media (min-width: 300px) and (max-width: 399.98px) {
+        .header{
+            height: 99.3vh;
+        }
+         .about {
+             height: 
+             50rem;
+             
+         }
+         #text-about {
+            margin-bottom: 60px;
+        }
+            
+         
+         #h1-carousel {
+            font-size: 100px;
+    
+         }
+         #fab {
+             margin-bottom: 15px;
+         }
+         
+        
+         .img-carousel {
+            min-height: 300px;
+            max-height: 300px;
+            }
+            #line-small {
+                margin-left: -1px;
+            }
+        
+        }
+        
+        @media (min-width: 400px) and (max-width: 409.98px) {
+            .header{
+                height: 99.3vh;
+            }
+            #btn-header {
+                font-size: 18px;
+                padding-bottom: 5px;
+            }
+            #h2-header {
+                font-size: 33px;
+               }
+            #h1-header {
+                font-size: 33px;
+              }
+              
+            .about {
+                height: 
+                50.5rem;
+                
+            }
+             #text-about {
+                margin-bottom: 20px;
+           }
+            
+             
+            #h1-carousel {
+                font-size: 50px;
+            }
+            
+             #fab {
+                margin-bottom: 15px;
+            }
+             #h2-carousel {
+                font-size: 50px;
+            }
+            
+             
+             .img-carousel {
+                min-height: 300px;
+                max-height: 300px;
+                }
+                #line-small {
+                    margin-left: -1px;
+                }
+            
+            }
+            @media (min-width: 410px) and (max-width: 419.98px) {
+                .header{
+                    height: 99.3vh;
+                }
+                #btn-header {
+                    font-size: 18px;
+                    padding-bottom: 5px;
+                }
+                #h2-header {
+                    font-size: 33px;
+                   }
+                #h1-header {
+                    font-size: 33px;
+                  }
+                  
+                .about {
+                    height: 
+                    50rem;
+                    
+                }
+                 #text-about {
+                    margin-bottom: 20px;
+               }
+                
+                 
+                #h1-carousel {
+                    font-size: 50px;
+                }
+                
+                 #fab {
+                    margin-bottom: 15px;
+                }
+                 #h2-carousel {
+                    font-size: 50px;
+                }
+                
+                 
+                 .img-carousel {
+                    min-height: 300px;
+                    max-height: 300px;
+                    }
+                    #line-small {
+                        margin-left: -1px;
+                    }
+                
+                }
+                @media (min-width: 420px) and (max-width: 479.98px) {
+                    .header{
+                        height: 99.3vh;
+                    }
+                    #btn-header {
+                        font-size: 18px;
+                        padding-bottom: 5px;
+                    }
+                    #h2-header {
+                        font-size: 33px;
+                       }
+                    #h1-header {
+                        font-size: 33px;
+                      }
+                      
+                    .about {
+                        height: 
+                        53.5rem;
+                        
+                    }
+                     #text-about {
+                        margin-bottom: 20px;
+                   }
+                    
+                     
+                    #h1-carousel {
+                        font-size: 50px;
+                    }
+                    
+                     #fab {
+                        margin-bottom: 15px;
+                    }
+                     #h2-carousel {
+                        font-size: 50px;
+                    }
+                    
+                     
+                     .img-carousel {
+                        min-height: 300px;
+                        max-height: 300px;
+                        }
+                        #line-small {
+                            margin-left: -1px;
+                        }
+                    
+                    }
+            @media (min-width: 480px) and (max-width: 499.98px) {
+                .header {
+                    height: 99.3vh;
+                }
+                #btn-header {
+                    font-size: 23px;
+                    padding-bottom: 5px;
+                }
+                #h2-header {
+                 font-size: 37px;
+                }
+                #h1-header {
+                  font-size: 37px;
+                }
+                
+                 .about {
+                     height: 
+                     45.5rem;
+                     
+                 }
+                 #text-about {
+                     margin-bottom: 20px;
+                }
+                    
+                 
+                 #h1-carousel {
+                    font-size: 100px;
+            
+                 }
+                 #fab {
+                     margin-bottom: 15px;
+                 }
+                 #h2-carousel {
+                     font-size: 50px;
+                 }
+                 #h3-carousel {
+                     margin-top: 100px;
+                          font-size: 80px;
+                    margin-bottom: 80px;
+                 }
+                 #h4-carousel {
+                    font-size: 50px;   
+                 }
+                 .img-carousel {
+                    min-height: 330px;
+                    max-height: 330px;
+                    }
+                    #line-small {
+                        margin-left: -1px;
+                    }
+                
+                }
+                @media (min-width: 500px) and (max-width: 575.98px) {
+                    .header {
+                        height: 99.3vh;
+                    }
+                    #btn-header {
+                        font-size: 23px;
+                        padding-bottom: 5px;
+                    }
+                    #h2-header {
+                     font-size: 37px;
+                    }
+                    #h1-header {
+                      font-size: 37px;
+                    }
+                    
+                     .about {
+                         height: 
+                         43.9rem;
+                         
+                     }
+                    
+                        
+                     
+                     #h1-carousel {
+                        font-size: 100px;
+                
+                     }
+                     #fab {
+                         margin-bottom: 15px;
+                     }
+                     #h2-carousel {
+                         font-size: 50px;
+                     }
+                     #h3-carousel {
+                         margin-top: 100px;
+                              font-size: 80px;
+                        margin-bottom: 80px;
+                     }
+                     #h4-carousel {
+                        font-size: 50px;   
+                     }
+                     .img-carousel {
+                        min-height: 350px;
+                        max-height: 350px;
+                        }
+                        #line-small {
+                            margin-left: -1px;
+                        }
+                    
+                    }
+            @media (min-width: 576px) and (max-width: 767.98px) {
+
+                #btn-header {
+                    font-size: 30px;
+                    padding-bottom: 5px;
+                }
+                #h2-header {
+                 font-size: 45px;
+                }
+                #h1-header {
+                  font-size: 45px;
+                }
+                .header {
+                    height: 90.3vh;
+                }
+                 .about {
+                     height: 
+                     50.9rem;
+                     
+                 }
+                 #text-about {
+                     margin-bottom: 60px;
+                }
+                    
+                 
+                 #h1-carousel {
+                    font-size: 100px;
+            
+                 }
+                 #fab {
+                     margin-bottom: 15px;
+                 }
+                 #h2-carousel {
+                     font-size: 50px;
+                 }
+                 #h3-carousel {
+                     margin-top: 100px;
+                          font-size: 80px;
+                    margin-bottom: 80px;
+                 }
+                 #h4-carousel {
+                    font-size: 50px;   
+                 }
+                 .img-carousel {
+                    min-height: 500px;
+                    max-height: 500px;
+                    }
+                    #line-small {
+                        margin-left: -1px;
+                    }
+            }
+            @media (min-width: 768px) and (max-width: 999.98px) {
+
+                #btn-header {
+                    font-size: 33px;
+                    padding-bottom: 10px;
+                    padding-right: 15px;
+                    padding-left: 15px;
+                }
+                #h2-header {
+                 font-size: 50px;
+                }
+                #h1-header {
+                  font-size: 50px;
+                }
+                .header {
+                    height: 99.3vh;
+                }
+                 .about {
+                     height: 
+                     50.9rem;
+                     
+                 }
+                 #text-about {
+                     margin-bottom: 60px;
+                }
+                    
+                 #fab {
+                     margin-bottom: 15px;
+                 }
+
+                 #h1-carousel {
+                     display: none;
+                    font-size: 100px;
+            
+                 }
+                 
+                 #h2-carousel {
+                     display: none;
+                     font-size: 50px;
+                 }
+                
+                 .img-carousel {
+                    min-height: 500px;
+                    max-height: 500px;
+                    }
+                    #line-small {
+                        margin-left: -1px;
+                    }
+            }
+            @media (min-width: 1000px) and (max-width: 1299.98px) {
+
+                #btn-header {
+                    font-size: 35px;
+                    padding-bottom: 5px;
+                }
+                #h2-header {
+                 font-size: 46px;
+                }
+                #h1-header {
+                  font-size: 46px;
+                }
+                .header {
+                    height: 99.3vh;
+                }
+                 .about {
+                     height: 
+                     50.9rem;
+                     
+                 }
+                 #text-about {
+                     margin-bottom: 60px;
+                }
+                    
+                 
+                 #h1-carousel {
+                     margin-top: -30px;
+                    font-size: 65px;
+                    margin-bottom: -20px;
+            
+                 }
+                 #fab {
+                     margin-bottom: 15px;
+                 }
+                 #h2-carousel {
+                     margin-bottom: -20px;
+                     font-size: 40px;
+                 }
+                
+                 .img-carousel {
+                    min-height: 500px;
+                    max-height: 500px;
+                    }
+                    #line-small {
+                        margin-left: -1px;
+                    }
+            }
+            @media (min-width: 1300px) and (max-width: 2000.98px) {
+
+                #btn-header {
+                    position: absolute;
+                    bottom: 30px;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                    font-size: 30px;
+                    padding-bottom: 5px;
+                }
+                #h2-header {
+                    position: absolute;
+                    bottom: 100px;
+                   left: 50%;
+                   transform: translate(-50%, -50%);
+                 font-size: 45px;
+                }
+                #h1-header {
+                    position: absolute;
+                    bottom: 150px;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                  font-size: 45px ;  
+                }
+                .header {
+                    height: 99.3vh;
+                }
+                .about {
+                    height: 
+                    50.1rem;
+                    
+                }
+            }
+            @media (min-width: 2001px) and (max-width: 2305.98px) {
+
+                #btn-header {
+                    font-size: 33px;
+                    padding-bottom: 5px;
+                }
+                #h2-header {
+                 font-size: 50px;
+                }
+                #h1-header {
+                  font-size: 50px ;  
+                }
+                .header {
+                    height: 99.3vh;
+                }
+            }
+            

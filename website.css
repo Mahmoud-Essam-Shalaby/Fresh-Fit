@@ -1,0 +1,193 @@
+ html {
+     scroll-behavior: smooth;
+ }
+
+nav {
+    box-shadow: 2px 3px 2px 0px aqua;
+    font-size: 20px;
+} 
+
+.actives {
+    border-bottom: 2px solid aqua;
+}
+
+#col-header-discription {
+    position: absolute;
+bottom: 35%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+.header {
+background-image: linear-gradient(to right,black,rgba(0, 0, 0, 0.637)) ,url(https://www.teahub.io/photos/full/24-245583_black-diamond-background-hd.jpg) ;
+height: 100vh;
+background-attachment: fixed;
+}
+#h1-header {
+color: white;
+margin-bottom: 1rem;
+}
+#h2-header {
+color: aqua;
+margin-bottom: 1rem;
+}
+#btn-header {
+background-color: aqua;
+margin-top: 1rem;
+}
+#line {
+    height: 5px;
+    background-color: aqua;
+    width:100px;
+    margin-left: 10px;
+}
+.about {
+    
+    background-image: linear-gradient(to right,rgb(0, 0, 0),rgba(0, 0, 0, 0.74)) ,url(https://www.teahub.io/photos/full/24-245583_black-diamond-background-hd.jpg) ;
+ color: white;
+height: 98vh;
+ background-attachment: fixed;
+
+}
+#line-small{
+    margin-left: 13px;
+    margin-top:12px;
+    margin-bottom: 30px;
+height: 5px;
+background-color: aqua;
+width: 80px;
+}
+
+.line-larg {
+background-color: aqua;
+height: 5px;
+
+}
+.img-carousel {
+min-height: 700px;
+max-height: 700px;
+}
+#h1-carousel {
+    position: absolute;
+    bottom: 300px;
+    left: 60px;
+    font-size: 105px;
+    color: white;
+    text-align: left;
+
+}
+#h2-carousel {
+    position: absolute;
+    bottom: 130px;
+    left: 60px;
+    text-align: left;
+font-size: 60px;
+color: white;
+}
+#h3-carousel {
+    position: absolute;
+    bottom: 300px;
+    left: 60px;
+    font-size: 100px;
+    color: white;
+    text-align: left;
+    margin-bottom: 5px; 
+}
+#h4-carousel {
+    position: absolute;
+    bottom: 130px;
+    left: 60px;
+    text-align: left;
+font-size: 60px;
+color: white;
+}
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='aqua' stroke='black' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+    height: 70px;
+width: 60px;
+color: aqua;
+}
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='aqua' stroke='black'  viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+     height: 70px;
+ width: 60px;
+ color: aqua;
+ }
+.img-features {
+max-height: 495px;
+border:5px solid aqua;
+border-radius: 10px;
+margin-top: -10px;
+}
+#text-features {
+    font-style: italic;
+}
+.features {
+    background-image: linear-gradient(to right,black,rgba(0, 0, 0, 0.74)) ,url(https://www.teahub.io/photos/full/24-245583_black-diamond-background-hd.jpg) ;
+background-attachment: fixed;
+color: white;
+padding-bottom: 3rem;
+}
+#img-about {
+min-height: 100PX;
+min-width: 130px;
+
+}
+.contant {
+        background-image: linear-gradient(to right,black,rgba(0, 0, 0, 0.74)) ,url(https://www.teahub.io/photos/full/24-245583_black-diamond-background-hd.jpg) ;
+background-attachment: fixed;
+color: white;
+
+}
+#fab {
+    margin-top: 35px;
+font-size: 60px;
+margin-bottom: 15px;
+color: aqua;
+}
+
+
+
+
+.counter-section {
+    padding-bottom: 50px;
+    font-size: 40px;
+background-image: linear-gradient(to right,black,rgba(255, 255, 255, 0.233)) ,url(https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3ltfGVufDB8fDB8&ixlib=rb-1.2.1&w=1000&q=80);
+background-attachment: fixed;
+background-size: cover;
+color: white;
+}
+#a-footer {
+margin-left: 70px;
+margin-right: 70px;
+    margin-top: 75px;
+    font-size: 55px;
+    margin-bottom: 75px;
+    color: aqua;
+    }
+    .footer {
+        background-image: linear-gradient(to right,black,rgba(255, 255, 255, 0.233)) ,url(https://i.pinimg.com/originals/71/60/c9/7160c9f131fe0685678a5749e264e054.png);
+        background-attachment: fixed;
+        background-size: cover;
+
+    }
+    #footer-span  {
+        background-image: linear-gradient(to right,black,rgba(255, 255, 255, 0.233)) ,url(https://i.pinimg.com/originals/71/60/c9/7160c9f131fe0685678a5749e264e054.png);
+        background-attachment: fixed;
+        background-size: cover;
+        
+    
+    margin-top: 35px;
+    font-size: 15px;
+    margin-bottom: 35px;
+    color: white;
+    }
+#a-footer2 {
+    color: white;
+
+}
+#footer2{
+    color: white;
+}
+.btn {
+    margin: left 1px;
+}
